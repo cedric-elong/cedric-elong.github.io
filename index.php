@@ -17,9 +17,9 @@
         </header>
 
         <div class="row text-center">
-            <a href="http://" target="_blank" rel="noopener noreferrer" class="col-lg-12">
+            <div class="col-lg-12">
                 <img src="images/profile.jpg" width="750px" height="500px" alt="galerie">
-            </a>
+            </div>
         </div>
 
         <div class="row profile">
